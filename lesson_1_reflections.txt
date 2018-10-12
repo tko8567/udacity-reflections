@@ -1,0 +1,53 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	Compares two given files to find differrences in them. If something in new 
+	version goes wrong, it means that fault is in new code. Seeing what changed
+	let you understand where is the mistake.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	You can overview your code and find the directions of improving it and 
+	develop yourself. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	You manually control your project versions as well as you get more experienced
+	programmer. It gives you more flexibility of choosing whether you need to save
+	your progress or not.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	Commit, from the logical side, is a composition of files working together.
+	There would be no sense to save it separately as project often doesn't work
+	with older files. Moreover, a programmer would likely need the whole state
+	of project from some point of time before.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	git log shows to you an overview of your project's path. Thanks to commit 
+	messages you can understand what each commit does. git diff lets you
+	understand in details the changes between two commits. The couple of these
+	commands let you get the whole picture of project development.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	It's much harder to take the risks if you know that there would be no way back.
+	But in programming each new line of code can be a little risk. But this is 
+	needed to find a great solution of some problem or implement a new feature. 
+	The possibility of turning time back lets you take the risks as often as you want, 
+	what makes the chance of creating something brilliant up to 100%.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	For some projects of mine I already have. Maybe even I could collaborate with 
+	someone to create thing faster and better.
+
+
+
+

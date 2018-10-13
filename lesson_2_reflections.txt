@@ -25,6 +25,10 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	It lets you scan a history of project more quickly and make some decisions faster. For 
+	example, if you found adding a new feature ended up worse than you expected, you can take 
+	one early commit of new branch to create one more and try to improve the situation.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

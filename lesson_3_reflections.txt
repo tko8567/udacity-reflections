@@ -8,6 +8,11 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
+	Manual pulling gives you more control over your local files. Automatic pulling may 
+	also suddenly break your code. For example, you write a module that depends on another 
+	one, and someone, who was developing or supporting the second one broke it or introduced 
+	a bug. Then your work may stop until the problem is resolved.
+
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 

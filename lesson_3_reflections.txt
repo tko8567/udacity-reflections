@@ -40,3 +40,7 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+
+	If I need to add something new and I know I will spend some time for testing, I'd better create a new 
+	branch for it. Well, I will create a new branch every time I don't want to see something undone in master, 
+	because it should represent the maximum quality and completeness of the current version.

@@ -32,5 +32,11 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
+	When I was collaborating with someone without version control, it was in a really different way.
+	Firstly we met each other in some room and segmented a task. Then we spdreaded these tasks among
+	everyone. We worked on single own parts, trying not to interfere. Then we were building the project
+	from the parts we made. But having the version control makes these procceses much faster and 
+	easier for everyone. 
+
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
